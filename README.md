@@ -1,0 +1,1 @@
+# Text & OCR comparison ([Try Now](https://textocr.pages.dev))
